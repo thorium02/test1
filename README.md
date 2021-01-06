@@ -2,4 +2,5 @@
 go-test-by-circleci-sample  
 test for CircleCI pull request  
 test-branch  
-CircleCI動作確認のため更に更新
+CircleCI動作確認のため更に更新  
+git設定更新
